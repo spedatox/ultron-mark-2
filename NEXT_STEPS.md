@@ -24,5 +24,3 @@
 - **Testing:**
   - Verify complex scheduling scenarios.
   - Test long-term memory retrieval accuracy.
-- **General:**
-  - Address any remaining issues from the "we are not done" directive.
